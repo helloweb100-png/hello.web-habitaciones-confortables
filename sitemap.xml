@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://habitacionesconfortables.mxc.mx/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://habitacionesconfortables.mxc.mx/img/habitacion-cama-matrimonial-escritorio-tepic.webp</image:loc><image:title>Habitación amueblada en Tepic</image:title></image:image>
+    <image:image><image:loc>https://habitacionesconfortables.mxc.mx/img/casa-zapopan-sala-comedor.webp</image:loc><image:title>Casa de 4 recámaras en Lomas de Zapopan</image:title></image:image>
+    <image:image><image:loc>https://habitacionesconfortables.mxc.mx/img/terraza-tepic-noche-vista.webp</image:loc><image:title>Terraza con vista a los cerros en Tepic</image:title></image:image>
+  </url>
+</urlset>
